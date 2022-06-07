@@ -35,4 +35,4 @@ Arduino compatible shields can be connected through the Arduino compatible heade
 
 Max UART baud rate is 1M. Use baud rate of 115200 for Client Control.
 
-For more information, see [CYBT-343052-EVAL](http://www.cypress.com/CYBT-343052-EVAL)
+For more information, see [CYBT-343052-EVAL](https://www.infineon.com/cms/en/product/evaluation-boards/cybt-343052-eval/)
